@@ -1,0 +1,65 @@
+html {
+    font-size: 100%;
+    overflow-y: scroll;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+body {
+    color: #444;
+    font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+    line-height: 1.7;
+    padding: 1em;
+}
+
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #eee;
+    margin: 1em 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+span.ul.li  {
+    display: inline-block;
+}
+
+.big-face {
+    display: block;
+    max-width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Some CSS for papers */
+
+.paper-table {
+    border-collapse: separate !important;
+}
+
+.paper-cell {
+    border: solid #FFFFFF !important;
+}
+
+.paper-name {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700;
+}
+
+.paper-text {
+    font-size: 15px;
+}
