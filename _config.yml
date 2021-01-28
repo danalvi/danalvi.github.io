@@ -1,7 +1,7 @@
 title: Danish A. Alvi
 description: "A personal website for Danish A. Alvi"
 permalink: ':title/'
-baseurl: ""
+baseurl: /
 url: "https://danalvi.github.io"
 
 # Contact links
